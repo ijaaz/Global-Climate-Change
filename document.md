@@ -1,4 +1,4 @@
-Climate Change: #Project
+# Climate Change: #Project
 
 - Climate Change: Paper
   - Create a Rough Outline
@@ -87,4 +87,3 @@ Climate Change: #Project
     - Relevance
       - 
   - http://www.huffingtonpost.com/2014/03/30/un-climate-change-report_n_5060317.html
-  - 
