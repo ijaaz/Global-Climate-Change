@@ -21,19 +21,9 @@ for all life.
 Global Warming is the rise of average temperature around the globe. Global
 warming is caused mainly by Greenhouse gases. The Greenhouse effect is caused
 by the absorption & emission of infrared rays, these affect the surface
-temperature of the planet. 
+temperature of the planet.
 
-
-description: Line plot of global mean land-ocean temperature index, 1880 to
-present (2013), with the base period 1951-1980. The black line is the annual
-mean and the red line is the five-year running mean. The green bars show
-uncertainty estimates. [This is an update of Fig. 1A in Hansen et al. (2006).]
-The graph shows an overall long-term warming trend. In the 1890s, the global
-temperature anomaly was on average slightly below -0.3 °C, with an error range
-of roughly -0.2 and -0.4 °C. In the 1940s, the global temperature anomaly was
-on average slightly below +0.1 °C, with an error range of roughly 0.0 and +0.15
-°C. In the 2000s, the global temperature anomaly was on average slightly below
-+0.6 °C, with an error range of roughly +0.6 and +0.5 °C.
+![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
 
 ## The Dangers of Global Warming
 
