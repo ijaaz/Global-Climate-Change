@@ -21,7 +21,9 @@ for all life.
 Global Warming is the rise of average temperature around the globe. Global
 warming is caused mainly by Greenhouse gases. The Greenhouse effect is caused
 by the absorption & emission of infrared rays, these affect the surface
-temperature of the planet. ![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
+temperature of the planet.
+
+![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
 
 ## The Dangers of Global Warming
 
