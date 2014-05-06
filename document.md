@@ -1,15 +1,3 @@
-# Climate Change
-
-## Introduction
-
-
-
-## What is Global Warming?
-
-Global Warming is the rise of average temperature around the globe. Global
-warming is caused mainly by Greenhouse gases. The Greenhouse effect is caused
-by the absorption & emission of infrared rays, these affect the surface
-temperature of the planet.
 
 ![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
 
@@ -33,20 +21,25 @@ Climate Change: #Project
                 global warming.
 
             - Global Warming is inevitable
-            Global Warming is inevitable, we have missed are largest chance to do anything
-            about it. This is due to our inaction and doubts. Some people also take
-            advantage of global warming.
+                Global Warming is inevitable, we have missed are largest chance to do anything
+                about it. This is due to our inaction and doubts. Some people also take
+                advantage of global warming.
 
             - Global warming is natural
             - We are speeding it up
-            We have steadily increased global warming through greenhouse gasses
-            & deforestation. We are creating a world where the atmosphere will be dangerous
-            for all life.
+                We have steadily increased global warming through greenhouse gasses
+                & deforestation. We are creating a world where the atmosphere will be dangerous
+                for all life.
             - There are consequences
         - Main Idea 1
         "What is global warming"
             - the science of global warming
                 - Greenhouse gasses
+                    Global Warming is the rise of average temperature around the globe. Global
+                    warming is caused mainly by Greenhouse gases. The Greenhouse effect is caused
+                    by the absorption & emission of infrared rays, these affect the surface
+                    temperature of the planet.
+
                 - Deforestation
             - Different global climate change models
             - A graph
@@ -69,40 +62,41 @@ Climate Change: #Project
             - Long term dangers
                 - Including permanent biosphere change, making earth uninhabitable to humans
                 - Death of most animals
-    - Main Idea 3
-      "The Consequences of global warming, perhaps?"
-      - Famine
-        - Due to decreased world food production
-      - Death from heat
-        - Heat increase
-      - Water
-        - Heat evaporation
-        - Over-use
-    - Main Idea 4
-      "What we can do to slow down global warming"
-      - Clean energy use
-      - Eat less meat 75%
-      - Recycle
-      - Energy efficient light bulbs
-      - Less fracking
-      - Long term
-        - Artificial Biosphere
-        - Migration to another planet
-        - Artificial genetic mutation
-        - Genocide
-        - Terraforming
-    - Conclusion
-      - Global warming is a danger to all
-      - There are consequences to global warming
-      - WE can all do something to try and fix it
-      - Good ending sentence; maybe
-        - Death is inevitable, even the death of a planet, but we choose how we die, either in ignominy, or in the light of good decisions.
-        - We choose what we 
+        - Main Idea 3
+        "The Consequences of global warming, perhaps?"
+            - Famine
+                - Due to decreased world food production
+            - Death from heat
+                - Heat increase
+            - Water
+                - Heat evaporation
+                - Over-use
+        - Main Idea 4
+        "What we can do to slow down global warming"
+            - Clean energy use
+            - Eat less meat 75%
+            - Recycle
+            - Energy efficient light bulbs
+            - Less fracking
+            - Long term
+                - Artificial Biosphere
+                - Migration to another planet
+                - Artificial genetic mutation
+                - Genocide
+                - Terraforming
+        - Conclusion
+            - Global warming is a danger to all
+            - There are consequences to global warming
+            - WE can all do something to try and fix it
+            - Good ending sentence; maybe
+                - Death is inevitable, but we choose how we die
+                - We choose what we 
 - Climate Change: Sources
-  - http://www.theguardian.com/environment/2014/mar/22/global-warming-hit-asia-hardest
-    "Theses of this article is that global warming will hit everyone, but asia the hardest.
-    "
-    - Supporting evidence
+    - http://www.theguardian.com/environment/2014/mar/22/global-warming-hit-asia-hardest
+        "Theses of this article is that global warming will hit everyone, but
+        asia the hardest."
+
+ - Supporting evidence
       - UN article
         - This source was relevant to them due to it's warnings of asia's specific vulnerabilities including heat stress, extreme precipitation, drought, and water scarcity.
         - Another reason this source was relevant is due to it's warnings of general global climate change risks including greater likelihood of injury, under-nutrition, and more deaths due to fires & heatwaves
