@@ -26,13 +26,25 @@
 
             - There are consequences
 
-                There are major consequences to our shortsightedness and
-                procrastination in the
+                Human beings are naturally shortsighted, we naturally
+                procrastinate, and this is because we live such short lives.
+
+                while these lives are short, they are also full of value and meaning, but we may not value
+                the environment as much as we should because our value
+                system has less to do with the environment, and more to do
+                with technology that let's us escape the environment, especially
+                nowadays were, when it's cold, we turn on the heat, and when
+                it's hot, we turn on the air conditioner. 
                 
+                This all lead's to a shortsightededness when we think about the
+                future, the problem is that this will kill us, especially when
+                we are talking about the environment.
+
         - Main Idea 1
         "What is global warming"
             - the science of global warming
                 - Greenhouse gasses
+
                     Global Warming is the rise of average temperature around the globe. Global
                     warming is caused mainly by Greenhouse gases. The Greenhouse effect is caused
                     by the absorption & emission of infrared rays, these affect the surface
@@ -41,6 +53,7 @@
                 - Deforestation
             - Different global climate change models
             - A graph
+
                 ![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
 
         - Main Idea 2
