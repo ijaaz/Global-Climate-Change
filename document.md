@@ -1,36 +1,29 @@
-
-![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
-
-## The Dangers of Global Warming
-
-## The Consequences
-
-## What We Can Do
-
-## Conclusion
-
-Climate Change: #Project
+# Climate Change
 
 - Climate Change: Paper
     - Create a Rough Outline
         - Introduction
             - Say something interesting/contentious
+
                 Global warming is a clear & present danger to all life on earth. Global warming
-                is destroying a many biospheres as we speak. For some species - including polar
+                is destroying many biospheres as we speak. For some species - including polar
                 bears - extinction is imminent. We are the most significant contributor to
                 global warming.
 
             - Global Warming is inevitable
-                Global Warming is inevitable, we have missed are largest chance to do anything
+
+                Global Warming is inevitable, and we have missed our largest chance to do anything
                 about it. This is due to our inaction and doubts. Some people also take
                 advantage of global warming.
 
-            - Global warming is natural
             - We are speeding it up
+
                 We have steadily increased global warming through greenhouse gasses
                 & deforestation. We are creating a world where the atmosphere will be dangerous
                 for all life.
+
             - There are consequences
+                
         - Main Idea 1
         "What is global warming"
             - the science of global warming
@@ -43,6 +36,8 @@ Climate Change: #Project
                 - Deforestation
             - Different global climate change models
             - A graph
+                ![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
+
         - Main Idea 2
         "The dangers of global warming"
             - Weird climate effects
