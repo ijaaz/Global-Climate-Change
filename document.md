@@ -6,15 +6,17 @@
             - Say something interesting/contentious
 
                 Global warming is a clear & present danger to all life on earth. Global warming
-                is destroying many biospheres as we speak. For some species - including polar
-                bears - extinction is imminent. We are the most significant contributor to
+                is destroying biospheres as we speak. For some species - including polar
+                bears - extinction is imminent. The human race is the most significant contributor to
                 global warming.
 
             - Global Warming is inevitable
 
-                Global Warming is inevitable, and we have missed our largest chance to do anything
-                about it. This is due to our inaction and doubts. Some people also take
-                advantage of global warming.
+                We have missed our largest chance to do anything about it. This
+                is due to our inaction, doubts, and shortsightedness. Some
+                people also have an advantage in the new century of global
+                warming, this induces them to procrastinate and take a
+                shortsighted approach to global warming.
 
             - We are speeding it up
 
@@ -23,6 +25,9 @@
                 for all life.
 
             - There are consequences
+
+                There are major consequences to our shortsightedness and
+                procrastination in the
                 
         - Main Idea 1
         "What is global warming"
