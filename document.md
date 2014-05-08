@@ -44,7 +44,7 @@
       "What is global warming"
   	- the science of global warming
         - Greenhouse gasses
-         Global Warming is the rise of average temperature around the globe. Global warming is caused mainly by Greenhouse gases. The Greenhouse effect is a system of energy flows ![alt Greenhouse Effect](http://upload.wikimedia.org/wikipedia/commons/5/58/Greenhouse_Effect.svg "'Greenhouse effect schematic showing energy flows between space, the atmosphere, and Earth's surface. Energy influx and emittance are expressed in watts per square meter (W/m2).'")
+         Global Warming is the rise of average temperature around the globe. Global warming is caused mainly by Greenhouse gases. The Greenhouse effect is a system of energy flows ![alt Greenhouse Effect](_http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenhouse_Effect.svg/500px-Greenhouse_Effect.svg.png_ "'Greenhouse effect schematic showing energy flows between space, the atmosphere, and Earth's surface. Energy influx and emittance are expressed in watts per square meter (W/m2).'")
 
          - Deforestation
 
