@@ -42,8 +42,8 @@
 
       - Main Idea 1
       "What is global warming"
-  - the science of global warming
-         - Greenhouse gasses
+  	- the science of global warming
+        - Greenhouse gasses
          Global Warming is the rise of average temperature around the globe. Global warming is caused mainly by Greenhouse gases. The Greenhouse effect is a system of energy flows ![alt Greenhouse Effect](http://upload.wikimedia.org/wikipedia/commons/5/58/Greenhouse_Effect.svg "'Greenhouse effect schematic showing energy flows between space, the atmosphere, and Earth's surface. Energy influx and emittance are expressed in watts per square meter (W/m2).'")
 
          - Deforestation
@@ -55,9 +55,9 @@
 
               ![Global mean land-ocean temperature change from 1880–2013, relative to the 1951–1980 mean. The black line is the annual mean and the red line is the 5-year running mean. The green bars show uncertainty estimates. Source: NASA GISS. (click for larger image)](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Global_Temperature_Anomaly.svg/320px-Global_Temperature_Anomaly.svg.png)
 
-      - Main Idea 2
-      "The dangers of global warming"
-         - Weird climate effects
+    - Main Idea 2
+      	"The dangers of global warming"
+       	- Weird climate effects
              - Floods
              - Sinkholes
              - Intense heat waves
@@ -75,7 +75,7 @@
              - Including permanent biosphere change, making earth uninhabitable to humans
              - Death of most animals
       - Main Idea 3
-      "The Consequences of global warming, perhaps?"
+      	"The Consequences of global warming, perhaps?"
          - Famine
              - Due to decreased world food production
          - Death from heat
@@ -84,7 +84,7 @@
               - Heat evaporation
               - Over-use
       - Main Idea 4
-      "What we can do to slow down global warming"
+      	"What we can do to slow down global warming"
           - Clean energy use
           - Eat less meat 75%
           - Recycle
@@ -119,12 +119,12 @@
 - http://blog.ucsusa.org/ocean-cooling-effect-global-warming-459
   "This article believes that the ocean is a temporary "speed bump", or air conditioner, slowing down global warming."
   - Supporting evidence
-    - This article uses http://www.wunderground.com/news/no-hiatus-pause-global-warming-climate-change-heres-why-20140109 and https://www.sciencenews.org/article/global-warming-hiatus-tied-cooler-temps-pacific to support colder than general water temeratures
+   - This article uses http://www.wunderground.com/news/no-hiatus-pause-global-warming-climate-change-heres-why-20140109 and https://www.sciencenews.org/article/global-warming-hiatus-tied-cooler-temps-pacific to support colder than general water temeratures
   - Relevance
-    - This article is refutes the common theme that global warming is not happening, but instead that the ocean's uncommon "cold" (specifically the pacific) is acting as a buffer, or temporary temperature relief.
+   - This article is refutes the common theme that global warming is not happening, but instead that the ocean's uncommon "cold" (specifically the pacific) is acting as a buffer, or temporary temperature relief.
 - http://www.theguardian.com/environment/2014/apr/01/exxon-mobil-climate-change-fossil-fuels-oil
   - Supporting evidence
-    - This article uses an exxon report on global climate change, and also uses the ipcc annual report on global climate change.
+   - This article uses an exxon report on global climate change, and also uses the ipcc annual report on global climate change.
   - Relevance
     - 
 - http://www.huffingtonpost.com/2014/03/30/un-climate-change-report_n_5060317.html
