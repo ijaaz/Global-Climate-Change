@@ -49,8 +49,16 @@
                     warming is caused mainly by Greenhouse gases. The Greenhouse effect is caused
                     by the absorption & emission of infrared rays, these affect the surface
                     temperature of the planet.
+                    ![alt Greenhouse Effect](./images/Greenhouse_Effect.svg
+                    "'Greenhouse effect schematic showing energy flows between
+                    space, the atmosphere, and Earth's surface. Energy influx
+                    and emittance are expressed in watts per square meter
+                    (W/m2).'")
 
                 - Deforestation
+
+                    
+
             - Different global climate change models
             - A graph
 
