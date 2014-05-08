@@ -42,21 +42,11 @@
 
         - Main Idea 1
         "What is global warming"
-            - the science of global warming
-                - Greenhouse gasses
+		- the science of global warming
+           - Greenhouse gasses
+           Global Warming is the rise of average temperature around the globe. Global warming is caused mainly by Greenhouse gases. The Greenhouse effect is a system of energy flows ![alt Greenhouse Effect](http://upload.wikimedia.org/wikipedia/commons/5/58/Greenhouse_Effect.svg "'Greenhouse effect schematic showing energy flows between space, the atmosphere, and Earth's surface. Energy influx and emittance are expressed in watts per square meter (W/m2).'")
 
-                    Global Warming is the rise of average temperature around the globe. Global
-                    warming is caused mainly by Greenhouse gases. The Greenhouse effect is caused
-                    by the absorption & emission of infrared rays, these affect the surface
-                    temperature of the planet.
-                    ![alt Greenhouse
-                    Effect](http://upload.wikimedia.org/wikipedia/commons/5/58/Greenhouse_Effect.svg
-                    "'Greenhouse effect schematic showing energy flows between
-                    space, the atmosphere, and Earth's surface. Energy influx
-                    and emittance are expressed in watts per square meter
-                    (W/m2).'")
-
-                - Deforestation
+           - Deforestation
 
                     
 
@@ -67,30 +57,30 @@
 
         - Main Idea 2
         "The dangers of global warming"
-            - Weird climate effects
-                - Floods
-                - Sinkholes
-                - Intense heat waves
-                - The economic effect
-                - Famine
-            - The danger to the developing world
-                - Less wealth, less cushion
-            - The dangers of global warming disbelief or/and inaction
-            - How vocal minorities danger us all
-            - Heats effect on decision making and crime.
-            - Biodiversity
-                - Deforestation
-                - Heat
-            - Long term dangers
-                - Including permanent biosphere change, making earth uninhabitable to humans
-                - Death of most animals
+           - Weird climate effects
+               - Floods
+               - Sinkholes
+               - Intense heat waves
+               - The economic effect
+               - Famine
+           - The danger to the developing world
+               - Less wealth, less cushion
+           - The dangers of global warming disbelief or/and inaction
+           - How vocal minorities danger us all
+           - Heats effect on decision making and crime.
+           - Biodiversity
+               - Deforestation
+               - Heat
+           - Long term dangers
+               - Including permanent biosphere change, making earth uninhabitable to humans
+               - Death of most animals
         - Main Idea 3
         "The Consequences of global warming, perhaps?"
-            - Famine
-                - Due to decreased world food production
-            - Death from heat
-                - Heat increase
-            - Water
+           - Famine
+               - Due to decreased world food production
+           - Death from heat
+               - Heat increase
+           - Water
                 - Heat evaporation
                 - Over-use
         - Main Idea 4
