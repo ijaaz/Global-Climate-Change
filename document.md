@@ -50,7 +50,7 @@
                     by the absorption & emission of infrared rays, these affect the surface
                     temperature of the planet.
                     ![alt Greenhouse
-                    Effect](http://en.wikipedia.org/wiki/File:Greenhouse_Effect.svg
+                    Effect](http://upload.wikimedia.org/wikipedia/commons/5/58/Greenhouse_Effect.svg
                     "'Greenhouse effect schematic showing energy flows between
                     space, the atmosphere, and Earth's surface. Energy influx
                     and emittance are expressed in watts per square meter
